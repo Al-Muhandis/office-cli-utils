@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Lazarus Version="4.0"/>
-  <Compiler Value="C:\lazarus-4.0\fpc\bin\x86_64-win64\fpc.exe" Date="1521159747"/>
-  <Params Value="-Tlinux -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -FuC:\Users\mail\Documents\Projects\Lazarus\office-cli-utils\ -FuC:\lazarus-4.0\lazarus\packager\units\x86_64-linux -FuC:\lazarus-4.0\lazarus\components\lazutils\lib\x86_64-linux -FUC:\Users\mail\Documents\Projects\Lazarus\office-cli-utils\lib\x86_64-linux\ office_cli_utils.pas"/>
-</CONFIG>
